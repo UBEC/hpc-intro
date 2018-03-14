@@ -25,7 +25,7 @@ Feel free to edit the topics for your section.
 	* Job size consequences
 	* GUI vs. batch programs (X-forwarding, SSH tunnels?)
 
-* Using software and environment modules
+* Using software and package managers
 * Playing friendly in the cluster
 
 	* Understanding resource utilization
